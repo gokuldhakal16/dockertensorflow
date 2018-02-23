@@ -9,4 +9,6 @@ docker pull gokuldhakal16/dockertf:latest
 ```
 
 ### Running the Docker image as a Container
+```
 docker run -it -p 8888:8888 gokuldhakal16/dockertf:latest
+```
